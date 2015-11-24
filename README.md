@@ -3,7 +3,7 @@
 **What language, library, feature, service, or tool does this example demonstrate?**
 The supermarket example I created demonstrates Raphael js.
 
-**Why would a web developer want to use this technology? What problem(s) does it solve?
+**Why would a web developer want to use this technology? What problem(s) does it solve?**
 Web developers would want to utilize Raphael if they are looking to
 create their own specific chart or image crop and rotate widget. It also makes working with svgs easier.
 Personally, I find Raphael much easier to navigate than HTML's canvas element.
