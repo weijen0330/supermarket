@@ -10,11 +10,7 @@ Personally, I find Raphael much easier to navigate than HTML's canvas element.
 One of the things that's most impressive about Raphael is its browser compatibility.
 Unlike canvas, Raphael supports all the major browsers including IE6, 7, and 8.
 
-**Why might a web developer be cautious about using this technology?
-What limitations, weaknesses, or drawbacks does this technology have?
-Does it have an active development community or does it look abandoned?
-How many projects seem to use this technology?
-If there is a public GitHub repo for this, when was the last commit, how many open issues do they have, and are those issues being addressed?**
+**Why might a web developer be cautious about using this technology? What limitations, weaknesses, or drawbacks does this technology have?Does it have an active development community or does it look abandoned? How many projects seem to use this technology? If there is a public GitHub repo for this, when was the last commit, how many open issues do they have, and are those issues being addressed?**
 I couldn't find a lot of weaknesses on Raphael besides the fact that it doesn't not work on Andriod systems.
 However, I find its documentation website really buggy. It would randomly jump around when I was learning the library.
 It has a pretty active community with 3,000 topics being discussed on Google Group.
@@ -27,13 +23,7 @@ I chose to design an interactive supermarket map that when the user hovers over 
 section, he or she can view the weekly special. It demonstrates the value of Raphael because
 a supermarket's layout can differ from store to store, but with Raphael, it can be easily mapped out.
 
-**How should someone run your example? If you have hosted version of your example,
-provide a link to it, but also tell us anything we need to know in order to get the example working on our own machines.
-If your example requires the installation of tools or frameworks,
-explain how to do the install and provide links to any download sites.
-If your example requires the execution of commands in the terminal, note those here.
-If it requires a local web server in order to work, note that.
-If it requires an account on some web service and corresponding keys, provide a link to the service and explain how to configure the keys.**
+**How should someone run your example? If you have hosted version of your example, provide a link to it, but also tell us anything we need to know in order to get the example working on our own machines.If your example requires the installation of tools or frameworks, explain how to do the install and provide links to any download sites. If your example requires the execution of commands in the terminal, note those here. If it requires a local web server in order to work, note that.If it requires an account on some web service and corresponding keys, provide a link to the service and explain how to configure the keys.**
 You don't need anything extra to get my example working.
 When you create your own Raphael project, to have it run on your own machine is simple,
 just include raphael.js into your HTML in a script tag.
