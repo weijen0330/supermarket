@@ -1,0 +1,13 @@
+body {
+    background-color: #001E00;
+}
+
+#welcome {
+  margin-top: 16px;
+  color: #fff;
+}
+
+.details {
+    color: #fff;
+    display: none;
+}
